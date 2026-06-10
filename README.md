@@ -23,3 +23,5 @@ Core-Features
 NOTCE
 i would read the read.me and The COPYRIGHT NOTICE to see if you have permission to publish videos
 and just dont touch ANY FILES
+
+Also Make Sure You Have The Net 10 Installed.
