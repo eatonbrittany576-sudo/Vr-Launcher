@@ -12,12 +12,12 @@ Core-Features
  
     Hope You Enjoy And Have A Wonderful Day Vr Players!
 
-    Install Guide
+    Install Guide:
      Install The Zip
      Extract That Zip File
         Open The Vr Launcher exe (ONLY)
         Your Done Have Fun!
-          Troubleshooting
+          Troubleshooting:
           Windows Says its a virus: it's Not a virus it might be due to the dll files in the folder that are needed to run the app.
           Admin Needed: i dont know but you might as well because it deletes Log files to save storage and it needs admin prob.
 NOTCE
