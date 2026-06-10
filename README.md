@@ -25,3 +25,4 @@ i would read the read.me and The COPYRIGHT NOTICE to see if you have permission 
 and just dont touch ANY FILES
 
 Also Make Sure You Have The Net 10 Installed.
+https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-10.0.9-windows-x64-installer
