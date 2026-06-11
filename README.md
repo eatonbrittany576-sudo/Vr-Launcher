@@ -32,6 +32,7 @@ I am a solo developer working on this project! I will actively take feedback and
 * **Windows Says It's a Virus:** It is completely safe! Because this is an unsigned indie utility, Windows Defender might flag a false positive. This is usually triggered by the essential `.dll` files in the folder or the administrative checks. 
 * **Admin Privileges:** The app requests Administrator permissions because it runs system diagnostics (like checking your C: drive space) and clears out junk log files to save you storage.
 * **⚠️ Strict Notice:** Please read the included `README` and `COPYRIGHT NOTICE` files before publishing any videos or media showcasing the app. **Do not modify or delete any files inside the folder.**
+* **Stuck On Waiting For Port 9999** Open Windows Terminal And Paste This In: $client = New-Object System.Net.Sockets.UdpClient; $bytes = [Text.Encoding]::ASCII.GetBytes("PING"); $client.Send($bytes, $bytes.Length, "127.0.0.1", 9999); $client.Close() This Skips It And Contiunes.
 
 ---
 
